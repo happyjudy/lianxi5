@@ -1,0 +1,5 @@
+language: node.js
+node_js: 
+  - "8"
+install: 
+  - npm install mocha
